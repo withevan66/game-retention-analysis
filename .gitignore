@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.Rhistory
+.RData
+.Rproj.user/
+
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.log
+
+# Optional local exports
+exports/
+tmp/
